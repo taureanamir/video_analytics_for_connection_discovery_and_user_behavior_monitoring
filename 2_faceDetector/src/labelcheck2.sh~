@@ -1,0 +1,26 @@
+a=1
+
+
+#for each image file in videos folder
+for filee in /home/aniqua/faceDetector/src/Database/march-13-13-30-to-15-30/* ; do
+     echo $filee
+
+     #make sure it is image file containing string "Label"
+     if echo "$filee" | grep -q "Label"; then
+       file1=$(echo $filee | cut -d "/"  -f 8) #extract only file name from path
+       labelnumber=$(echo "$filee" | grep -o -P '(?<=Label).*(?=Frame)') #extract the label number - string between Label and Frame
+       file2="/home/aniqua/faceDetector/src/Database/march-13-13-30-to-15-30/$labelnumber/$file1" #path to store file to
+       echo $file2
+       echo $filee
+       mkdir -p /home/aniqua/faceDetector/src/Database/march-13-13-30-to-15-30/$labelnumber #make dir with labelnumber if it does not exist
+       mv $filee $file2 #copy to specified location
+     fi
+    
+
+
+done
+
+
+
+
+

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/avl/CLionProjects/getCoordinateOfPixel/main.cpp
+opencv2/opencv.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+

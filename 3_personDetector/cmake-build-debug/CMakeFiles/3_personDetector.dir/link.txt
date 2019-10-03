@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/3_personDetector.dir/main.cpp.o  -o 3_personDetector 

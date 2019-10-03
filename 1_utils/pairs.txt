@@ -1,0 +1,180 @@
+Jednipat	11080	11081
+Jednipat	11081	11082
+Jednipat	11080	11080
+Ramesh	11177	11175
+Ramesh	11176	11178
+Ramesh	11177	11178
+Kanruthai	11156	11158
+Kanruthai	11155	11155
+Kanruthai	11156	11157
+Sun	11188	11188
+Sun	11186	11188
+Sun	11189	11186
+Noot	11162	11164
+Noot	11161	11164
+Noot	11161	11162
+Som	11181	11182
+Som	11180	11183
+Som	11183	11183
+Thewerat	11129	11125
+Thewerat	11128	11129
+Thewerat	11128	11129
+Anjana	11066	11067
+Anjana	11069	11068
+Anjana	11065	11066
+P.Most	11098	11098
+P.Most	11098	11096
+P.Most	11098	11099
+Aphinya	11141	11142
+Aphinya	11140	11143
+Aphinya	11140	11144
+Pruek	11170	11170
+Pruek	11174	11174
+Pruek	11172	11174
+Petch	11167	11168
+Petch	11166	11168
+Petch	11166	11168
+Vasan	11131	11131
+Vasan	11131	11130
+Vasan	11130	11130
+Nadia	11086	11086
+Nadia	11088	11088
+Nadia	11087	11086
+Teerapon	11122	11120
+Teerapon	11121	11121
+Teerapon	11120	11123
+P.Aor	11092	11090
+P.Aor	11094	11093
+P.Aor	11094	11092
+Sornrak	11113	11111
+Sornrak	11113	11113
+Sornrak	11113	11112
+Jalinee	11151	11153
+Jalinee	11153	11151
+Jalinee	11152	11151
+Teera	11194	11190
+Teera	11193	11192
+Teera	11190	11192
+Aniqua	11135	11135
+Aniqua	11136	11137
+Aniqua	11137	11139
+Dr.Matt	11148	11147
+Dr.Matt	11147	11146
+Dr.Matt	11145	11147
+Vee	11206	11207
+Vee	11206	11209
+Vee	11206	11206
+Amir	11063	11063
+Amir	11062	11064
+Amir	11063	11062
+Dr.Mongkol	11076	11075
+Dr.Mongkol	11078	11077
+Dr.Mongkol	11075	11075
+Siraj	11105	11108
+Siraj	11107	11108
+Siraj	11107	11105
+Unknown	11202	11200
+Unknown	11202	11200
+Unknown	11203	11200
+Tarun	11118	11116
+Tarun	11117	11119
+Tarun	11117	11116
+P.Song	11103	11103
+P.Song	11101	11101
+P.Song	11103	11102
+April	11072	11072
+April	11070	11070
+April	11072	11074
+Theekshana	11196	11197
+Theekshana	11196	11198
+Theekshana	11196	11197
+Jednipat	11081	Anjana	11067
+Jednipat	11083	P.Most	11097
+Jednipat	11084	April	11070
+Ramesh	11178	Kanruthai	11156
+Ramesh	11179	P.Song	11103
+Ramesh	11176	Sun	11188
+Kanruthai	11155	P.Most	11096
+Kanruthai	11157	April	11074
+Kanruthai	11157	Dr.Mongkol	11077
+Sun	11185	Aphinya	11140
+Sun	11186	Sornrak	11113
+Sun	11185	April	11070
+Noot	11163	Thewerat	11129
+Noot	11160	Vasan	11133
+Noot	11160	Unknown	11201
+Som	11181	Teera	11192
+Som	11182	Sornrak	11113
+Som	11183	P.Song	11103
+Thewerat	11127	Dr.Matt	11147
+Thewerat	11127	Tarun	11119
+Thewerat	11126	Jednipat	11083
+Anjana	11066	Thewerat	11129
+Anjana	11067	Tarun	11117
+Anjana	11069	Sornrak	11112
+P.Most	11098	Pruek	11174
+P.Most	11096	Aphinya	11144
+P.Most	11095	Som	11182
+Aphinya	11141	Unknown	11203
+Aphinya	11142	Dr.Mongkol	11079
+Aphinya	11140	P.Song	11101
+Pruek	11172	P.Aor	11093
+Pruek	11173	Aniqua	11138
+Pruek	11173	P.Song	11104
+Petch	11168	Nadia	11087
+Petch	11167	Ramesh	11178
+Petch	11165	Teerapon	11124
+Vasan	11130	Unknown	11200
+Vasan	11134	Tarun	11119
+Vasan	11131	Jednipat	11080
+Nadia	11087	Sornrak	11113
+Nadia	11087	Kanruthai	11156
+Nadia	11088	Teerapon	11122
+Teerapon	11121	Aniqua	11135
+Teerapon	11122	Jednipat	11081
+Teerapon	11120	Dr.Matt	11145
+P.Aor	11091	Petch	11167
+P.Aor	11092	Aphinya	11144
+P.Aor	11091	Dr.Matt	11149
+Sornrak	11111	Jalinee	11150
+Sornrak	11113	Amir	11064
+Sornrak	11112	Thewerat	11125
+Jalinee	11154	Vasan	11133
+Jalinee	11151	Sun	11186
+Jalinee	11153	Jednipat	11082
+Teera	11192	Kanruthai	11156
+Teera	11192	Vasan	11133
+Teera	11192	Unknown	11202
+Aniqua	11138	Vasan	11131
+Aniqua	11137	Vee	11205
+Aniqua	11137	Jalinee	11154
+Dr.Matt	11148	Tarun	11117
+Dr.Matt	11145	Sornrak	11112
+Dr.Matt	11148	April	11070
+Vee	11207	Ramesh	11178
+Vee	11208	Dr.Mongkol	11077
+Vee	11205	Amir	11064
+Amir	11063	Aphinya	11141
+Amir	11062	Anjana	11066
+Amir	11064	Pruek	11170
+Dr.Mongkol	11076	Amir	11062
+Dr.Mongkol	11077	Jalinee	11153
+Dr.Mongkol	11076	Kanruthai	11158
+Siraj	11105	Dr.Matt	11149
+Siraj	11107	Dr.Mongkol	11076
+Siraj	11105	Teerapon	11121
+Unknown	11200	Aphinya	11142
+Unknown	11204	Anjana	11067
+Unknown	11202	Kanruthai	11156
+Tarun	11118	Noot	11164
+Tarun	11119	Jalinee	11151
+Tarun	11116	P.Most	11098
+P.Song	11104	Aphinya	11143
+P.Song	11101	Aniqua	11139
+P.Song	11104	Petch	11165
+April	11074	Som	11183
+April	11071	Thewerat	11126
+April	11073	Unknown	11202
+Theekshana	11197	Unknown	11200
+Theekshana	11198	Noot	11163
+Theekshana	11197	Anjana	11066

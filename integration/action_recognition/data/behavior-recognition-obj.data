@@ -1,0 +1,5 @@
+classes= 2
+train  = /mnt/drive/Amir/work/git/darknet/data/behavior-recognition-train.txt
+valid  = /mnt/drive/Amir/work/git/darknet/data/behavior-recognition-valid.txt
+names = /mnt/drive/Amir/work/git/darknet/data/behavior-recognition-obj.names
+backup = backup/

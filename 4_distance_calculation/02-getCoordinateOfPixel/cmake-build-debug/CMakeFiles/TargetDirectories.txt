@@ -1,0 +1,3 @@
+/home/avl/CLionProjects/getCoordinateOfPixel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/avl/CLionProjects/getCoordinateOfPixel/cmake-build-debug/CMakeFiles/getCoordinateOfPixel.dir
+/home/avl/CLionProjects/getCoordinateOfPixel/cmake-build-debug/CMakeFiles/edit_cache.dir

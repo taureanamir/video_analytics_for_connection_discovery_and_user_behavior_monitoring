@@ -1,0 +1,7 @@
+set(CUDA_USE_STATIC_CUDA_RUNTIME OFF)
+cmake_minimum_required(VERSION 2.8)
+project(FaceDetector)
+set(OpenCV_DIR /usr/local/share/OpenCV)
+find_package( OpenCV REQUIRED )
+add_executable( FaceDetector FaceDetector.cpp )
+target_link_libraries( FaceDetector ${OpenCV_LIBS} )

@@ -1,0 +1,3 @@
+/home/gunner/drive/AIT/thesis/thesis-code/2_faceDetector/src/CMakeFiles/rebuild_cache.dir
+/home/gunner/drive/AIT/thesis/thesis-code/2_faceDetector/src/CMakeFiles/FaceDetector.dir
+/home/gunner/drive/AIT/thesis/thesis-code/2_faceDetector/src/CMakeFiles/edit_cache.dir
