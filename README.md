@@ -10,4 +10,7 @@ I use state-of-the-art machine vision and deep learning algorithms to
 5. and if the distance is within a certain threshold, determine their gaze direction
 6. finally categorize them into a group if they satisfy the given conditions.
 
+
+The customers in yellow boxes are in a group.
+
 ![alt text](larger-group.png "Group discovery")
