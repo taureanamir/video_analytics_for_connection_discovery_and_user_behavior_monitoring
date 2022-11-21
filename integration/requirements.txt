@@ -1,5 +1,5 @@
 numpy==1.15
-tensorflow-gpu==1.12
+tensorflow-gpu==2.9.3
 scipy
 scikit-learn
 h5py
